@@ -4,10 +4,10 @@ A modern and user-friendly Flutter application for ordering coffee and managing 
 
 ## Screenshots
 
-<img width="375" alt="Image" src="https://github.com/user-attachments/assets/87009a2f-5a82-4576-a3af-0ccd53bc9526" />
-<img width="375" alt="Image" src="https://github.com/user-attachments/assets/2c717430-7d42-43f4-b244-df8b6ff020f5" />
-<img width="375" alt="Image" src="https://github.com/user-attachments/assets/d4c21767-75b5-478e-b29f-df0a0158c6ba" />
-<img width="375" alt="Image" src="https://github.com/user-attachments/assets/3f28f95b-4ae9-48ab-9435-55e2bd79f9c5" />
+<img width="275" alt="Image" src="https://github.com/user-attachments/assets/87009a2f-5a82-4576-a3af-0ccd53bc9526" />
+<img width="275" alt="Image" src="https://github.com/user-attachments/assets/2c717430-7d42-43f4-b244-df8b6ff020f5" />
+<img width="275" alt="Image" src="https://github.com/user-attachments/assets/d4c21767-75b5-478e-b29f-df0a0158c6ba" />
+<img width="275" alt="Image" src="https://github.com/user-attachments/assets/3f28f95b-4ae9-48ab-9435-55e2bd79f9c5" />
 
 
 ## Design Credits
